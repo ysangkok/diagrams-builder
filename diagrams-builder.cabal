@@ -60,7 +60,7 @@ library
                        haskell-src-exts >= 1.18 && < 1.24,
                        haskell-src-exts-simple >= 1.18 && < 1.24,
                        cmdargs >= 0.6 && < 0.11,
-                       lens >= 4.0 && < 5.3,
+                       lens >=4.0 && <5.4,
                        hashable >= 1.1 && < 1.5,
                        exceptions >= 0.3 && < 0.11
   hs-source-dirs:      src
